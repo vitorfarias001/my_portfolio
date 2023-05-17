@@ -71,9 +71,6 @@
       width: max-content;
       height: max-content;
       &:hover {
-        .overlay {
-          background-color: #00000000;
-        }
         .overlay-border {
           top: 0.5rem;
           left: 0.5rem;
@@ -81,15 +78,6 @@
         img {
           filter: none;
         }
-      }
-      .overlay {
-        transition: 0.3s ease-in-out;
-        z-index: 1;
-        position: absolute;
-        height: 350px;
-        width: 350px;
-        background-color: #9d00ff4d;
-        border-radius: 0.2rem;
       }
       .overlay-border {
         z-index: -3;

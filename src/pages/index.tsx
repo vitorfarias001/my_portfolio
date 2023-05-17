@@ -24,7 +24,6 @@ function Index() {
     <div className="app">
       <Head>
         <title>Vitor De Farias Metzner</title>
-        <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       {showContent && (
         <>
@@ -35,7 +34,6 @@ function Index() {
             <Hero />
             <About />
             <Experience />
-            <Projects />
             <Contact />
           </main>
           <Footer />
