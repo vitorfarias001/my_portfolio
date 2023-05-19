@@ -26,7 +26,7 @@ function Experience() {
     },
     {
       name: "ClickSoft",
-      role: "Reat Native Developer",
+      role: "React Native Developer",
       url: "https://clicksoft.com.br/",
       start: "March 2021",
       end: "April 2021",
