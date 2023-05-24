@@ -49,9 +49,9 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I&apos;m a Senior Developer ,  with expertise in creating top-notch
+        I&apos;m a Front End Developer ,  with expertise in creating top-notch
         ecommerce experiences. My current focus is on developing websites ecommerces or projects mobile ,  that are
-        accessible and centered around user needs, as part of the team at&nbsp;
+        accessible and centered around user needs, as part of the team&nbsp;
       </motion.p>
       <motion.div
         className="hero-button"
